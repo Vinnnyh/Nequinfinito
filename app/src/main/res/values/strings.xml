@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Nequinifinito</string>
+    <string name="new_account">Nueva Cuenta</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Correo">Correo</string>
+    <string name="Contraseña">Contraseña</string>
 </resources>
